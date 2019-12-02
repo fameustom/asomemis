@@ -30,8 +30,8 @@ width:99%;
     width: 600px;
 }
 .topmenu1, .topmenu2, .topmenu3, .topmenu4 {
-background-color: black;
-color:white;
+background-color: grey;
+color: black;
 font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 text-align: center;
 width: 25%;
